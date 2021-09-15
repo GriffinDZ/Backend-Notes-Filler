@@ -1,5 +1,5 @@
 /** 
- * This function transfers the information from the Google Forms connected Sheets document to a Backend Notes Template 
+ * This program transfers the information from the Google Forms connected Sheets document to a Backend Notes Template, 
  * generating a new copy in the process. It works by scanning the Google Form for the highlighting (purple) associated with 
  * the main performers and fetching their associated data. In order to enter the performers in line-up order, 
  * drag the rows around in the Google Forms Sheet so that the main performers are order. It does not matter
